@@ -190,7 +190,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "Substitution_Compression_UI";
-            this.Text = "Substitution_Compression_UI";
+            this.Text = "Compress Me";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

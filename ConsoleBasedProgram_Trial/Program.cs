@@ -76,7 +76,7 @@ namespace ConsoleBasedProgram_Trial
 
             foreach (KeyValuePair<string, int> kvp in table.occurance)
             {
-                //textBox3.Text += ("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
+               
                 Console.WriteLine("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
             }
 
