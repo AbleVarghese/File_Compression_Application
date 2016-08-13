@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace File_Compression_Application
+namespace WindowsFormsApplication1
 {
     static class Program
     {
@@ -16,8 +16,7 @@ namespace File_Compression_Application
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Substitution_Compression_UI());
-           
+            Application.Run(new Form1());
         }
     }
 }

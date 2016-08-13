@@ -1,4 +1,4 @@
-﻿namespace File_Compression_Application
+﻿namespace WindowsFormsApplication1
 {
     partial class Form1
     {

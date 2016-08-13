@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Compression_Application", "File_Compression_Application\File_Compression_Application.csproj", "{09098BC9-79DC-4D20-A0B3-0C39704611EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBasedProgram_Trial", "ConsoleBasedProgram_Trial\ConsoleBasedProgram_Trial.csproj", "{E1D7CD08-6358-472F-B71D-91672837A128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09098BC9-79DC-4D20-A0B3-0C39704611EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09098BC9-79DC-4D20-A0B3-0C39704611EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09098BC9-79DC-4D20-A0B3-0C39704611EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09098BC9-79DC-4D20-A0B3-0C39704611EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D7CD08-6358-472F-B71D-91672837A128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D7CD08-6358-472F-B71D-91672837A128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D7CD08-6358-472F-B71D-91672837A128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D7CD08-6358-472F-B71D-91672837A128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
