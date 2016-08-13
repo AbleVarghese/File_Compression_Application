@@ -50,7 +50,7 @@ namespace ConsoleBasedProgram_Trial
                         {
                             table.occurance[buffer[i].ToString()] += 1;
                         }
-                        else if(buffer[i].ToString() == " " || buffer[i].ToString() == ";" || buffer[i].ToString() ==":" || buffer[i].ToString()  =="." || buffer[i].ToString() ==""){
+                        else if(buffer[i].ToString() == " " || buffer[i].ToString() == "," || buffer[i].ToString() ==":" || buffer[i].ToString()  ==";"){
                             
                             table.occurance[buffer[i].ToString()] += 1;
                         }
